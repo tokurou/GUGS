@@ -23,13 +23,15 @@ Copyright (c) 2013 - 2017, Tokurou Shimizu, All right reserved.
 GUGS is distributed under the GNU General Public License Version 3 (GPL3).
 
 ### Citation
-Shimizu, T. (2021) General Utilities for Genotyping Study (GUGS): A Comprehensive Application in Genotype and Sequence Data Manipulation. <b><i>JARQ</i></b> <b>55</b> (4), 333-339.
+Shimizu, T. (2021) General Utilities for Genotyping Study (GUGS): A Comprehensive Application in Genotype and Sequence Data Manipulation. <i>JARQ</i> <b>55</b> (4), 333-339.
 
 ### Publications
 GUGS have been used in the following publications successfully:
 * [Shimizu, T., Kitajima, A., Nonaka, K., Yoshioka, T., Ohta, S., Goto, S., et al. (2016). Hybrid origins of citrus varieties inferred from DNA marker analysis of nuclear and organelle genomes. <b>PLoS One</b> 11, e0166969. doi:10.1371/journal.pone.0166969.](http://dx.plos.org/10.1371/journal.pone.0166969)
 * [Shimizu, T., Kaminuma, E., Nonaka, K., Yoshioka, T., Goto, S., Matsumoto, T., et al. (2016). A genomic approach to selecting robust and versatile SNP sets from next-generation sequencing data for genome-wide association study in citrus cultivars. <b>Acta Hortic.</b> 1135, 23–32. doi:10.17660/ActaHortic.2016.1135.4.](http://www.actahort.org/books/1135/1135_4.htm)
 * [Minamikawa, M. F., Nonaka, K., Kaminuma, E., Kajiya-Kanegae, H., Onogi, A., Goto, S., et al. (2017). Genome-wide association study and genomic prediction in citrus: Potential of genomics-assisted breeding for fruit quality traits. <b>Sci. Rep.</b> 7, 4721. doi:10.1038/s41598-017-05100-x.](http://www.nature.com/articles/s41598-017-05100-x)
+* [Shimizu, T. K. Nagakura, M. Okuda, H. Inagi, I. Okuda and S. Endo. (2020) Evaluation of Genetic Diversity in Wild Tachibana Population of Heda, Shizuoka,
+Using DNA Marker Analysis, and Stable Maintenance of the Population. <b>Hort. Res. (Japan).</b> 19(2): 141-149.	https://doi.org/10.2503/hrj.19.141](https://www.jstage.jst.go.jp/article/hrj/19/2/19_141/_article/-char/en)
 
 
 ### Funding
