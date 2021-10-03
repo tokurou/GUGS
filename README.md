@@ -23,7 +23,7 @@ Copyright (c) 2013 - 2017, Tokurou Shimizu, All right reserved.
 GUGS is distributed under the GNU General Public License Version 3 (GPL3).
 
 ### Citation
-Shimizu, T. (2021) General Utilities for Genotyping Study (GUGS): A Comprehensive Application in Genotype and Sequence Data Manipulation. <b>JARQ</b> <b>55</b> (4), 333-339.
+Shimizu, T. (2021) General Utilities for Genotyping Study (GUGS): A Comprehensive Application in Genotype and Sequence Data Manipulation. <b>JARQ</b>. <b>55</b> (4), 333-339.
 
 ### Publications
 GUGS have been used in the following publications successfully:
