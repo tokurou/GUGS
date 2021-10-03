@@ -40,13 +40,8 @@ This work was supported by JSPS KAKENHI grant number 18K05634, and by the Govern
 
 #### Version Notes
 ##### ver.1.01 - 04 Oct 2021
-* A bug of <i>ssrpd</i> and <i>snppd</i> that do not reply value was fixed.
-* A bug of <i>snp2cpgt</i> that returned an ambiguous value for a particular case was fixed.
-* A bug in <i>splitseq</i> that did not process a nucleotide sequence given that contains LineFeed was fixed.
-* Fixed behavior of <i>bracket</i>, <i>motifcount</i>, <i>firstmotif</i>, <i>findmotif</i>, <i>markmotif</i>, <i>matchseq</i>, and <i>matchscore</i> in accordance with the bug fix of <i>splitseq</i>.
-* <i>nuc2aa</i>	The frame assignment became optional.
-* Minor bug fix: <i>fold</i>, <i>GCratio</i>, <i>toRNA</i>, <i>toDNA</i>, <i>RNA2Dnuc</i>, <i>DNA2Rnuc</i>, <i>clip3</i>, <i>clip5</i>, <i>motifcount</i>, <i>findmotif</i>, <i>firstmotif</i>, and <i>markmotif</i>.
-* Introduces applications for the dynamic evaluation of genetic identity and shared alleles and a scheme for DNA marker design.
+* Various bugs were fixed (see release note).
+* Applications for the dynamic evaluation of genetic identity and shared alleles and a scheme for DNA marker design were introduced.
 * VBA scripts became digitally signed.
 * Citation was updated.
 
