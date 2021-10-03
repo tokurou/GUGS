@@ -41,7 +41,7 @@ This work was supported by JSPS KAKENHI grant number 18K05634, and by the Govern
 #### Version Notes
 ##### ver.1.01 - 04 Oct 2021
 * Various bugs were fixed (see release note).
-* Applications for the dynamic evaluation of genetic identity and shared alleles and a scheme for DNA marker design were introduced.
+* Applications for the dynamic evaluation of the ratio for genetic identity and shared alleles, and a scheme for DNA marker design were introduced.
 * VBA scripts became digitally signed.
 * Citation was updated.
 
