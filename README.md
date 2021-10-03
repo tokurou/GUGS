@@ -38,7 +38,7 @@ Using DNA Marker Analysis, and Stable Maintenance of the Population. <b>Hort. Re
 This work was supported by JSPS KAKENHI grant number 18K05634, and by the Government of Japan’s Cabinet Office, under the Cross-ministerial Strategic Innovation Promotion Program (SIP), “Technologies for Smart Bio-industry and Agriculture” (funded by the NARO Bio-oriented Technology Research Advancement Institution; grant number DDB2001).
 
 
-#### Version history
+#### Version Notes
 ##### ver.1.01 - 04 Oct 2021
 * A bug of <i>ssrpd</i> and <i>snppd</i> that do not reply value was fixed.
 * A bug of <i>snp2cpgt</i> that returned an ambiguous value for a particular case was fixed.
