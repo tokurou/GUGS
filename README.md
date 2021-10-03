@@ -15,6 +15,7 @@ This file includes VBA code of GUGS and a tutorial workbook to learn how GUGS wi
 * See the manual to consult the usage of each function.
 
 ### Version history
+* 04 Oct 2021 - ver.1.01 released
 * 24 Oct 2017 - ver.1.00 released.
 
 ### License
@@ -22,7 +23,7 @@ Copyright (c) 2013 - 2017, Tokurou Shimizu, All right reserved.
 GUGS is distributed under the GNU General Public License Version 3 (GPL3).
 
 ### Citation
-Please cite this URL to cite for using GUGS.
+Shimizu, T. (2021) General Utilities for Genotyping Study (GUGS): A Comprehensive Application in Genotype and Sequence Data Manipulation. JARQ 55 (4), 333-339.
 
 ### Publications
 GUGS have been used in the following publications successfully:
