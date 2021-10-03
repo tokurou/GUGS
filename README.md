@@ -36,8 +36,8 @@ GUGS have been used in the following publications successfully:
 GUGS has been supported by a grant from the Ministry of Agriculture, Forestry and Fisheries of Japan (Genomics-based Technology for Agricultural Improvement, NGB-1006, NGB-2009).
 
 
-## Version history
-# ver.1.01 - 04 Oct 2021
+#### Version history
+##### ver.1.01 - 04 Oct 2021
 * A bug of <i>ssrpd</i> and <i>snppd</i> that do not reply value was fixed.
 * A bug of <i>snp2cpgt</i> that returned an ambiguous value for a particular case was fixed.
 * A bug in <i>splitseq</i> that did not process a nucleotide sequence given that contains LineFeed was fixed.
